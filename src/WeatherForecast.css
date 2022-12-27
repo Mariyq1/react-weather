@@ -1,0 +1,15 @@
+.WeatherForecast{
+    font-weight: 600;
+}
+.WeatherForecast-temp-min{
+    opacity: 0.6;
+    margin-left: 5px;
+}
+.WeatherForecast .ForecastImg img{
+    font-size: 5px;
+    line-height: 8px;
+}
+.WeatherForecast img{
+    width: 50px;
+    height:48px;
+}
