@@ -1,5 +1,6 @@
 .WeatherForecast{
     font-weight: 600;
+    text-align: center;
 }
 .WeatherForecast-temp-min{
     opacity: 0.6;
@@ -11,5 +12,5 @@
 }
 .WeatherForecast img{
     width: 50px;
-    height:48px;
+    height:50px;
 }
