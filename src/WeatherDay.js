@@ -13,7 +13,7 @@ export default function WeatherDay(props){
         let date = new Date(props.date.time * 1000);
         let day = date.getDay();
         let days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-        return days [day];
+        return (days[day]);
     }
     return (
         <div>

@@ -10,6 +10,9 @@ export default function App() {
       <footer>
         It is open sourced on <a href="https://github.com/Mariyq1/react-weather"
         target="_blank" rel="noreferrer">GitHub</a>
+        and {" "}
+        <a href="https://github.com/Mariyq1/react-weather"
+        target="_blank" rel="noreferrer">hosted on Netlify</a>
       </footer>
       </div>
     </div>
