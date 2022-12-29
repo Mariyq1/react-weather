@@ -11,7 +11,7 @@ export default function App() {
         It is open sourced on <a href="https://github.com/Mariyq1/react-weather"
         target="_blank" rel="noreferrer">GitHub</a>
         and {" "}
-        <a href="https://github.com/Mariyq1/react-weather"
+        <a href="https://statuesque-pastelito-c9e9b4.netlify.app/"
         target="_blank" rel="noreferrer">hosted on Netlify</a>
       </footer>
       </div>
